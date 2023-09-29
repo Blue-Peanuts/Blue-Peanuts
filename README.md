@@ -22,7 +22,7 @@ Feel free to connect with me on social media or drop me a message here on GitHub
 
 - **Discord**: [@peanuts1756](https://discord.com/users/266855750528139266)
 - **LinkedIn**: [nitanon](https://www.linkedin.com/in/nitanon/)
-- **Email**: [mf.in.th@gmail.com](mf.in.th@gmail.com)
+- **Email**: [mf.in.th@gmail.com](mailto:mf.in.th@gmail.com)
 
 Thanks for visiting, and I look forward to seeing you around! 🚀🎮🌐
 
