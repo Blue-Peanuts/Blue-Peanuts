@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Blue-Peanuts
 - 👀 I’m interested in game development
 - 🌱 I’m an undergraduate in mathematics
-- 📫 How to reach me: mf.in.th@gmail.com
+- 📫 How to reach me: discord @peanuts1756
