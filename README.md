@@ -21,7 +21,7 @@ If you stumble upon a project that piques your interest and you'd like to collab
 Feel free to connect with me on social media or drop me a message here on GitHub. I love meeting new people who share my passion for game and web development. Let's inspire and create together!
 
 - **Discord**: [@peanuts1756](https://discord.com/users/266855750528139266)
-- **LinkedIn**: [nitanon](https://www.linkedin.com/in/your-linkedin-profile/)
+- **LinkedIn**: [nitanon](https://www.linkedin.com/in/nitanon/)
 - **Email**: [mf.in.th@gmail.com](mf.in.th@gmail.com)
 
 Thanks for visiting, and I look forward to seeing you around! 🚀🎮🌐
