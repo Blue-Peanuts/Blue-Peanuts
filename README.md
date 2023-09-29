@@ -9,7 +9,7 @@ I'm a passionate game developer. Make sure to visit [**itch.io**](https://blue-p
 ## What's in My GitHub?
 
 ### Game Development
-While my games are hosted on itch.io, my GitHub is home to various tools, scripts, and game-related projects. These are typically tools I've created for my own use but decided to share with the community. Feel free to explore them and use them in your own game development journey.
+While my games are hosted on itch.io, my GitHub is home to various tools for Godot and Unity. These are typically tools I've created for my own use but decided to share with the community. Feel free to explore them and use them in your own game development journey.
 
 ### Web Development
 I'm also deeply interested in web development, and you'll find a collection of web projects and experiments here.
