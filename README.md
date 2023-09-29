@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Blue-Peanuts
-- 👀 I’m interested in game development
-- 🌱 I’m an undergraduate in mathematics
+- 👀 I’m interested in game development and web development
+- 🌱 I’m an undergraduate in computer science
 - 📫 How to reach me: discord @peanuts1756
